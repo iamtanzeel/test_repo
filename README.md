@@ -19,3 +19,8 @@ Follow the following points:
 2. point 2
 3. point 3
 ---
+### Section B
+
+__This text is in bold characters__
+_This text is in italicised characters_
+For dataset, click [here](https://www.kaggle.com/datasets/alistairking/nuclear-energy-datasets)
