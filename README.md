@@ -46,4 +46,10 @@ def newfunc(a,b):
 SELECT * FROM employees;
 ```
 
+#### Tables
+
+| header1 | header2 | header3|
+|---|---|---|
+| data1| data2 | data3|
+
 
