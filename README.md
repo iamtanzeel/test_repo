@@ -32,3 +32,10 @@ For dataset, click __[here](https://www.kaggle.com/datasets/alistairking/nuclear
 
 ![Crocus-p1020491](https://github.com/iamtanzeel/test_repo/assets/125236453/aeca7a1b-e7dd-4408-8dca-2a5d8d32c5bd)
 
+---
+
+### Section C
+
+def newfunc(a,b):
+  return a+b
+
