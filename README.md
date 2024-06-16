@@ -42,4 +42,8 @@ def newfunc(a,b):
   return a+b
 ```
 
+```sql
+SELECT * FROM employees;
+```
+
 
