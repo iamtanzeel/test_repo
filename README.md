@@ -36,6 +36,10 @@ For dataset, click __[here](https://www.kaggle.com/datasets/alistairking/nuclear
 
 ### Section C
 
+``` python
+backtick
 def newfunc(a,b):
   return a+b
+```
+
 
