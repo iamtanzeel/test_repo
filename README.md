@@ -22,5 +22,7 @@ Follow the following points:
 ### Section B
 
 __This text is in bold characters__
+
 _This text is in italicised characters_
+
 For dataset, click __[here](https://www.kaggle.com/datasets/alistairking/nuclear-energy-datasets)__
